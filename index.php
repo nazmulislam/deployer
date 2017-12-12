@@ -1,3 +1,3 @@
 <?php
 
-phpinfo();
+echo "This is release 4";
