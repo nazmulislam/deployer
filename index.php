@@ -1,3 +1,3 @@
 <?php
 
-echo "This is release edit on git up";
+echo "This is release checking for deploy";
