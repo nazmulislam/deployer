@@ -1,3 +1,3 @@
 <?php
 
-echo "This is release 4";
+echo "This is release edit on git up";
