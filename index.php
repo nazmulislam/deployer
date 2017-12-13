@@ -1,3 +1,3 @@
 <?php
 
-echo "testing auto phpfpm reload";
+echo "testing deployment with raz";
